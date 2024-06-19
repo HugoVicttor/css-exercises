@@ -1,0 +1,15 @@
+.Primeiro,
+.Segundo {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
+.Primeiro {
+    background-color: rgba(10, 0, 53, 0.849);
+    color: rgb(255, 254, 212);
+    font-weight: 700;
+}
+
+.Segundo {
+    background-color: rgb(255, 220, 18);
+}
